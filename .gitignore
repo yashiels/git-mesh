@@ -3,3 +3,16 @@ out/
 *.vsix
 .vscode-test/
 .DS_Store
+
+# IDE — personal settings (not project config)
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Git worktrees
+.worktrees/
