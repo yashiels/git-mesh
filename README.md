@@ -1,6 +1,6 @@
 # GitMesh - Bulk Git Operations for VS Code
 
-![Package Extension](https://github.com/yashielsookdeo/gitmesh/workflows/Package%20Extension/badge.svg)
+![Package Extension](https://github.com/yashiels/git-mesh/workflows/Package%20Extension/badge.svg)
 
 GitMesh is a VS Code extension that provides a powerful dashboard for managing multiple Git repositories simultaneously. Perform bulk operations like fetch, checkout, push, and reset across all your repositories with ease.
 
