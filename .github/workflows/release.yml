@@ -21,7 +21,7 @@ jobs:
         with:
           # Fetch full history so git can push back to main
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
