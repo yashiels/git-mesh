@@ -16,3 +16,4 @@ out/
 
 # Git worktrees
 .worktrees/
+.worktrees
